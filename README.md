@@ -38,19 +38,19 @@ Churn            	Target variable indicating if the customer has churned (Yes/No
    Provide business insights to reduce churn and improve customer retention.
 
 🛠️ Project Workflow
-   1.Data Cleaning
+   1. Data Cleaning
 
   Handle missing or erroneous values in TotalCharges.
 
   Convert relevant columns to appropriate data types.
 
-2.Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
 Univariate and bivariate analysis
 
 Churn rate distribution across customer segments
 
-3.Feature Engineering
+3. Feature Engineering
 
 Encode categorical variables
 
@@ -66,13 +66,14 @@ Simple ANN
 
 Gradient Boosting (XGBoost, LightGBM)
 
-5.Evaluation
+5. Evaluation
 
 Accuracy, Precision, Recall, F1 Score
 
 Confusion Matrix and ROC-AUC Curve
 
 🧰 Tools and Technologies
+
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 Jupyter Notebook 
